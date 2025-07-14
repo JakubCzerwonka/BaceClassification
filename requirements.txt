@@ -1,0 +1,12 @@
+Requirements and versions used:
+
+    - deepchem: 2.8.0
+    - sklearn: 1.7.0
+    - rdkit: 2025.03.3
+    - lightgbm: 4.6.0
+    - xgboost: 3.0.2
+    - numpy: 1.26.4
+    - seaborn: 0.13.2
+    - matplotlib: 3.10.3
+    - pandas: 2.3.0
+    - tensorflow: 2.10.0
