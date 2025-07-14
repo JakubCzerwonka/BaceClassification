@@ -1,5 +1,5 @@
 # BaceClassification
-Beta secretase Classification
+Beta secretase classification
 
 1. Required libraries:
     - deepchem
