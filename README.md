@@ -28,7 +28,7 @@ Beta secretase Classification
                    n_estimators=100, learning_rate=0.1,
                    num_leaves=32, reg_alpha=0, reg_lambda=0.1)
    
-5. Test score: 0.9174614184151205
+5. Test score (ROC AUC): 0.9174614184151205
 
 
 6. Project potential extension:
