@@ -26,7 +26,7 @@ Beta secretase Classification
 
 
 4. Project potential extension:
-    test other featurizers
+    - Test other featurizers
 
 5. Potential new features:
     - Printing validation loss for  Graph
