@@ -1,7 +1,7 @@
 # BaceClassification
 Beta secretase Classification
 
-1. Requirement libraries:
+1. Required libraries:
     - deepchem
     - sklearn
     - rdkit
