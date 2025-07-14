@@ -22,11 +22,18 @@ Beta secretase Classification
     - Neural network
     - GraphConvModel
 
+
 3. Best Model:
+    LGBMClassifier(boosting_type='gbdt',n_jobs=-1, verbose=-1,
+                   n_estimators=100, learning_rate=0.1,
+                   num_leaves=32, reg_alpha=0, reg_lambda=0.1)
+   
+5. Test score on best model:
+    Best model's roc-auc on test set: 0.9174614184151205
 
 
-4. Project potential extension:
+6. Project potential extension:
     - Test other featurizers
+    - Printing validation loss for Graph
 
-5. Potential new features:
-    - Printing validation loss for  Graph
+    
